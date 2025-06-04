@@ -1,5 +1,5 @@
-## Shopping-Cart-Management-System
-# (Web3 Application)
+# Shopping-Cart-Management-System
+## (Web3 Application)
 
 A comprehensive shopping cart management system built with PHP, MySQL, and modern web technologies. This system provides seamless browsing, purchasing, and secure transaction capabilities for users, along with robust admin management features.
 
