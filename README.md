@@ -3,7 +3,7 @@
 
 A comprehensive shopping cart management system built with PHP, MySQL, and modern web technologies. This system provides seamless browsing, purchasing, and secure transaction capabilities for users, along with robust admin management features.
 
-## 🚀 Features
+## Features
 
 ### User Features
 - **Product Browsing**: Browse products by categories with detailed product views
@@ -19,7 +19,7 @@ A comprehensive shopping cart management system built with PHP, MySQL, and moder
 - **Report Generation**: Generate sales and inventory reports
 - **User Management**: Manage customer accounts and orders
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Backend**: PHP 7.4+
 - **Database**: MySQL 8.0+
@@ -28,7 +28,7 @@ A comprehensive shopping cart management system built with PHP, MySQL, and moder
 - **Styling**: Bootstrap, Custom CSS
 - **Architecture**: MVC Pattern
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this application, ensure you have the following installed:
 
@@ -36,12 +36,12 @@ Before running this application, ensure you have the following installed:
 - Web browser (Chrome, Firefox, Safari, etc.)
 - Text editor or IDE (VS Code, Sublime Text, etc.)
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/shopping-cart-management-system.git
+git clone https://github.com/Abdulla-1234/Shopping-Cart-Management-System.git
 cd shopping-cart-management-system
 ```
 
@@ -108,7 +108,7 @@ $database = 'ofsmsdb';
 ?>
 ```
 
-## 🔧 Running the Application
+## Running the Application
 
 ### Start the Development Server
 
@@ -143,7 +143,7 @@ tail -f /opt/lampp/logs/error_log
 sudo /opt/lampp/lampp restart
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 OFSMS/
@@ -179,7 +179,7 @@ OFSMS/
 └── README.md             # This file
 ```
 
-## 🔑 Default Login Credentials
+## Default Login Credentials
 
 ### Admin Access
 - **URL**: `http://localhost/OFSMS/admin/`
@@ -190,7 +190,7 @@ OFSMS/
 - **Username**: `testuser`
 - **Password**: `test123`
 
-## 🛠️ Development Commands
+## Development Commands
 
 ### Database Operations
 ```bash
@@ -221,7 +221,7 @@ echo "display_errors = On" >> /opt/lampp/etc/php.ini
 sudo /opt/lampp/lampp restart
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### PHP Configuration
 Edit `/opt/lampp/etc/php.ini`:
@@ -235,7 +235,7 @@ post_max_size = 50M
 ### Apache Configuration
 Edit `/opt/lampp/etc/httpd.conf` if needed for custom configurations.
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -261,7 +261,7 @@ Edit `/opt/lampp/etc/httpd.conf` if needed for custom configurations.
    - Verify database credentials in config file
    - Ensure database exists
 
-## 📝 API Endpoints
+## API Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
@@ -271,7 +271,7 @@ Edit `/opt/lampp/etc/httpd.conf` if needed for custom configurations.
 | `/signup.php` | POST | User registration |
 | `/admin/` | GET | Admin dashboard |
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -279,29 +279,18 @@ Edit `/opt/lampp/etc/httpd.conf` if needed for custom configurations.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
+## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Abdulla-1234)
+- Email: mohammadabdulla20march@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - XAMPP development team
 - PHP community
 - Bootstrap framework
 - MySQL database system
-
-## 📞 Support
-
-For support and queries:
-- Create an issue on GitHub
-- Email: support@yourproject.com
-
 ---
 
 **Made with ❤️ using PHP, MySQL, and XAMPP**
